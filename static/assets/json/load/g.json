@@ -489,9 +489,9 @@
   },
   {
     "name": "FNAF",
-    "url": "https://wellsousaaa.github.io/Five-Nights-at-Freddys-Web/",
-    "image": "/misc/fnaf/img.jpeg",
-    "usesProxy": true
+    "image": "/misc/fnaf/img.webp",
+    "author": "Telltale Games",
+    "usesProxy": false
   },
   {
     "name": "Google Baseball",
